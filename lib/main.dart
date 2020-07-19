@@ -43,6 +43,7 @@ class MyApp extends StatelessWidget {
                         //you haven't added anything here
                         //look atthe color of fonts here
                         // it has changed to RED bcz u have commited something but it has not pushed yet
+                        //this line shows how many lines have been added and deleted along with file numbers
                         Text(
                           'theme',
                           style: GoogleFonts.comfortaa(
